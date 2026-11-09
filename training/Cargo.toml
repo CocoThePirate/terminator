@@ -1,0 +1,10 @@
+[package]
+name = "terminator-training"
+edition.workspace = true
+version.workspace = true
+publish.workspace = true
+
+[dependencies]
+terminator-models = { path = "../models" }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
