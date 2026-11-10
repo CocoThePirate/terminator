@@ -1,3 +1,4 @@
+# WARNING: Some links in this transcript will not work
 # Conversation transcript
 
 User messages and final replies in chronological order. This file includes personal discussion and is intended for private repository collaborators.
